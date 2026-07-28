@@ -1,0 +1,6 @@
+co zroibic 
+
+limit nazwy pliku
+
+naprawic ze jak zawiesi ctrl to naprawia ctlem
+
